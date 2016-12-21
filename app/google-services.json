@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "704570904571",
+    "firebase_url": "https://lets-go-99921.firebaseio.com",
+    "project_id": "lets-go-99921",
+    "storage_bucket": "lets-go-99921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704570904571:android:925524e9bd57175d",
+        "android_client_info": {
+          "package_name": "com.apps.dilip_pashi.letsgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704570904571-lqhgs1g4djsepj9qkge7t3nev87f3jg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.dilip_pashi.letsgo",
+            "certificate_hash": "7DD25511A4BA4D20AF8418973233C8C71086528C"
+          }
+        },
+        {
+          "client_id": "704570904571-85i0t3fpkmkhmm78th9vcjs1d1u8vbu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.dilip_pashi.letsgo",
+            "certificate_hash": "18BCC4536164293937476071A4089349B1B85164"
+          }
+        },
+        {
+          "client_id": "704570904571-937ojo1lv8vkqga10uas8d3fl0n4adm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFuTytJZJnqoYP34AgTP7_9mSAogfBC94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704570904571-937ojo1lv8vkqga10uas8d3fl0n4adm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
